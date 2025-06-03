@@ -1,6 +1,52 @@
-date,entry
-2025-05-21,"I feel very happy and energized today!"
-2025-05-22,"I'm a bit tired and stressed out from work."
-2025-05-23,"I went for a walk. It was peaceful."
-2025-05-24,"I feel anxious and overwhelmed lately."
-2025-05-25,"Today was productive and fulfilling."
+date,entry,TextBlob Polarity,VADER Compound,VADER Positive,VADER Negative,VADER Neutral,Mood
+2025-01-01,I feel very happy today.,0.8,0.6369,0.571,0.0,0.429,happy
+2025-01-02,Today was a sad day.,-0.5,-0.5423,0.0,0.579,0.421,anxious
+2025-01-03,I'm feeling quite anxious at the moment.,-0.3,-0.296,0.0,0.265,0.735,neutral
+2025-01-04,The day went by and I felt mostly peaceful.,0.3,0.3612,0.326,0.0,0.674,neutral
+2025-01-05,It's been a stressful kind of day.,-0.4,-0.4215,0.0,0.343,0.657,neutral
+2025-01-06,I feel very motivated today.,0.7,0.6249,0.562,0.0,0.438,happy
+2025-01-07,Today was a tired day.,-0.2,-0.2732,0.0,0.248,0.752,neutral
+2025-01-08,I'm feeling quite overwhelmed at the moment.,-0.4,-0.4767,0.0,0.422,0.578,neutral
+2025-01-09,The day went by and I felt mostly grateful.,0.6,0.6369,0.571,0.0,0.429,happy
+2025-01-10,It's been a hopeful kind of day.,0.4,0.4939,0.458,0.0,0.542,neutral
+2025-01-11,I feel very excited today.,0.9,0.7003,0.659,0.0,0.341,happy
+2025-01-12,Today was a lonely day.,-0.6,-0.4939,0.0,0.482,0.518,neutral
+2025-01-13,I'm feeling quite angry at the moment.,-0.7,-0.5719,0.0,0.552,0.448,anxious
+2025-01-14,The day went by and I felt mostly content.,0.5,0.5859,0.526,0.0,0.474,happy
+2025-01-15,It's been a hopeful kind of day.,0.4,0.4939,0.458,0.0,0.542,neutral
+2025-01-16,I feel very confident today.,0.8,0.6369,0.571,0.0,0.429,happy
+2025-01-17,Today was a peaceful day.,0.6,0.6486,0.593,0.0,0.407,happy
+2025-01-18,I'm feeling quite grateful at the moment.,0.7,0.6249,0.562,0.0,0.438,happy
+2025-01-19,The day went by and I felt mostly stressed.,-0.4,-0.4939,0.0,0.482,0.518,neutral
+2025-01-20,It's been a happy kind of day.,0.8,0.6369,0.571,0.0,0.429,happy
+2025-01-21,I feel very hopeful today.,0.6,0.6249,0.562,0.0,0.438,happy
+2025-01-22,Today was an anxious day.,-0.3,-0.296,0.0,0.265,0.735,neutral
+2025-01-23,I'm feeling quite peaceful at the moment.,0.4,0.4939,0.458,0.0,0.542,neutral
+2025-01-24,The day went by and I felt mostly excited.,0.7,0.6369,0.571,0.0,0.429,happy
+2025-01-25,It's been a lonely kind of day.,-0.6,-0.4939,0.0,0.482,0.518,neutral
+2025-01-26,I feel very tired today.,-0.2,-0.2732,0.0,0.248,0.752,neutral
+2025-01-27,Today was a motivated day.,0.7,0.6249,0.562,0.0,0.438,happy
+2025-01-28,I'm feeling quite sad at the moment.,-0.5,-0.5423,0.0,0.579,0.421,anxious
+2025-01-29,The day went by and I felt mostly angry.,-0.7,-0.5719,0.0,0.552,0.448,anxious
+2025-01-30,It's been a confident kind of day.,0.8,0.6369,0.571,0.0,0.429,happy
+2025-01-31,I feel very grateful today.,0.6,0.6369,0.571,0.0,0.429,happy
+2025-02-01,Today was a content day.,0.5,0.5859,0.526,0.0,0.474,happy
+2025-02-02,I'm feeling quite motivated at the moment.,0.7,0.6249,0.562,0.0,0.438,happy
+2025-02-03,The day went by and I felt mostly tired.,-0.2,-0.2732,0.0,0.248,0.752,neutral
+2025-02-04,It's been a peaceful kind of day.,0.6,0.6486,0.593,0.0,0.407,happy
+2025-02-05,I feel very anxious today.,-0.3,-0.296,0.0,0.265,0.735,neutral
+2025-02-06,Today was a hopeful day.,0.4,0.4939,0.458,0.0,0.542,neutral
+2025-02-07,I'm feeling quite excited at the moment.,0.9,0.7003,0.659,0.0,0.341,happy
+2025-02-08,The day went by and I felt mostly sad.,-0.5,-0.5423,0.0,0.579,0.421,anxious
+2025-02-09,It's been a happy kind of day.,0.8,0.6369,0.571,0.0,0.429,happy
+2025-02-10,I feel very stressed today.,-0.4,-0.4215,0.0,0.343,0.657,neutral
+2025-02-11,Today was a lonely day.,-0.6,-0.4939,0.0,0.482,0.518,neutral
+2025-02-12,I'm feeling quite grateful at the moment.,0.7,0.6249,0.562,0.0,0.438,happy
+2025-02-13,The day went by and I felt mostly confident.,0.8,0.6369,0.571,0.0,0.429,happy
+2025-02-14,It's been a peaceful kind of day.,0.6,0.6486,0.593,0.0,0.407,happy
+2025-02-15,I feel very hopeful today.,0.6,0.6249,0.562,0.0,0.438,happy
+2025-02-16,Today was a content day.,0.5,0.5859,0.526,0.0,0.474,happy
+2025-02-17,I'm feeling quite overwhelmed at the moment.,-0.4,-0.4767,0.0,0.422,0.578,neutral
+2025-02-18,The day went by and I felt mostly motivated.,0.7,0.6249,0.562,0.0,0.438,happy
+2025-02-19,It's been a grateful kind of day.,0.6,0.6369,0.571,0.0,0.429,happy
+2025-02-20,I feel very tired today.,-0.2,-0.2732,0.0,0.248,0.752,neutral

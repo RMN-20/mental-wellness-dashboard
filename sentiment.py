@@ -2,7 +2,6 @@ import pandas as pd
 from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
-# Initialize VADER
 vader_analyzer = SentimentIntensityAnalyzer()
 
 def analyze_sentiment(text):
@@ -26,3 +25,10 @@ def analyze_journal_csv(csv_path):
     sentiment_df = pd.DataFrame(sentiments.tolist())
     result = pd.concat([df, sentiment_df], axis=1)
     return result
+def classify_mood(scores):
+    if scores["TextBlob Polarity"] >= 0.3 and scores["VADER Compound"] >= 0.3:
+        return "happy"
+    elif scores["TextBlob Polarity"] <= -0.3 and scores["VADER Compound"] <= -0.3:
+        return "anxious"
+    else:
+        return "neutral"
