@@ -15,7 +15,11 @@ This is a web-based journaling app that analyzes emotional sentiment from daily 
 - **Data Storage** – Entries are saved to a local CSV file (`data/sample_data.csv`).
 
 ![Dashboard](images/mood_dashboard.png)
-
+![](images/data_entry.png)
+![](images/sentiment.png)
+![](images/barchart.png)
+![](images/linechart.png)
+![](images/piechart.png)
 ---
 
 
