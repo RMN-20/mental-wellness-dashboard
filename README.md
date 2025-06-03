@@ -14,6 +14,8 @@ This is a web-based journaling app that analyzes emotional sentiment from daily 
   - **Pie Chart** – Summarizes overall mood distribution.
 - **Data Storage** – Entries are saved to a local CSV file (`data/sample_data.csv`).
 
+![Dashboard](images/mood_dashboard.png)
+
 ---
 
 

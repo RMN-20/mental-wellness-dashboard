@@ -50,3 +50,4 @@ date,entry,TextBlob Polarity,VADER Compound,VADER Positive,VADER Negative,VADER 
 2025-02-18,The day went by and I felt mostly motivated.,0.7,0.6249,0.562,0.0,0.438,happy
 2025-02-19,It's been a grateful kind of day.,0.6,0.6369,0.571,0.0,0.429,happy
 2025-02-20,I feel very tired today.,-0.2,-0.2732,0.0,0.248,0.752,neutral
+2025-06-03,I'm feeling tired.,-0.4,-0.34,0.278,0.537,0.185,anxious
