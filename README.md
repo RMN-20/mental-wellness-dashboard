@@ -8,28 +8,28 @@ This is a web-based journaling application that analyzes emotional sentiment fro
 
 ---
 
-## 🔑 **Key Features**
+## **Key Features**
 
-- **📝 Write Daily Journal Entries**  
+- **Write Daily Journal Entries**  
   Capture your thoughts in free-form natural language.
 
-- **🧠 Sentiment Analysis**  
+- **Sentiment Analysis**  
   Utilizes **TextBlob** and **VADER** to detect emotional tone and polarity.
 
-- **🎯 Automatic Mood Detection**  
+- **Automatic Mood Detection**  
   Automatically categorizes entries into moods based on sentiment scores.
 
-- **📊 Interactive Visualizations**
+- **Interactive Visualizations**
   - **Line Chart:** Displays sentiment score trends over time.
   - **Pie Chart:** Summarizes the overall mood distribution.
   - **Bar Chart:** Shows mood frequency and comparison across entries.
 
-- **💾 Data Storage**  
+- **Data Storage**  
   All entries are saved locally in a CSV file (`data/sample_data.csv`) for future reference and analysis.
 
 ---
 
-## 🖼️ **Screenshots**
+## **Screenshots**
 
 > Below are screenshots of the dashboard in action:
 
